@@ -1,2 +1,2 @@
 ---
-arguments: server
+arguments: server application.yml
